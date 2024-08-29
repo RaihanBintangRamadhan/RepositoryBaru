@@ -1,2 +1,2 @@
 # RepositoryBaru
-Repository Praktikum Metode Komputasi
+## Repository Praktikum Metode Komputasi
